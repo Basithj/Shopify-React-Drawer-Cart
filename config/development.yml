@@ -1,0 +1,7 @@
+dev:
+  password: password
+  store: store
+  theme_id: theme_id
+  directory: build  
+  ignore_files:
+    - config/*.json
